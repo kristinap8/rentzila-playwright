@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jan 29 18:11:33 GMT 2024","Mon Jan 29 18:11:41 GMT 2024","8038","chromium","footer.spec.ts","Footer check","","","C214 - Verify that all elements on the footer are displayed and all links are clickable",""
