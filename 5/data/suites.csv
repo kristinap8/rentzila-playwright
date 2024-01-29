@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jan 29 18:16:39 GMT 2024","Mon Jan 29 18:18:08 GMT 2024","89525","chromium","sections.spec.ts","Sections check","","","C213 - Checking ""Спецтехніка"" section on the main page",""
+"passed","Mon Jan 29 18:15:25 GMT 2024","Mon Jan 29 18:15:32 GMT 2024","7370","chromium","footer.spec.ts","Footer check","","","C214 - Verify that all elements on the footer are displayed and all links are clickable",""
+"passed","Mon Jan 29 18:15:20 GMT 2024","Mon Jan 29 18:16:35 GMT 2024","75185","chromium","catalog.spec.ts","Catalog menu check","","","C559 - Verify ""Каталог""",""
+"passed","Mon Jan 29 18:15:32 GMT 2024","Mon Jan 29 18:16:39 GMT 2024","66318","chromium","search.spec.ts","Search check","","","C530 - Verify search input",""
+"passed","Mon Jan 29 18:15:20 GMT 2024","Mon Jan 29 18:15:25 GMT 2024","5213","chromium","feedback.spec.ts","Feedback check","","","C226 - Verify ""У Вас залишилися питання?"" form",""
+"passed","Mon Jan 29 18:16:35 GMT 2024","Mon Jan 29 18:18:10 GMT 2024","94804","chromium","sections.spec.ts","Sections check","","","C212 - Checking ""Послуги"" section on the main page",""
