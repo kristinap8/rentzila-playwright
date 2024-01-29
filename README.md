@@ -1,4 +1,4 @@
-# Rentzila -- testing using Playwright + Typescript
+# Rentzila -- testing using Playwright + TypeScript
 
 ## Table of Contents
 
