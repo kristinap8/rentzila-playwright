@@ -9,7 +9,7 @@ export interface feedback {
     created_date: string,
     closed_date: string | null,
     is_closed: boolean
-},
+}
 
 export function sortFeedbackByCreatedDate(feedbackArray: feedback[]) {
     feedbackArray.sort((a, b) => new Date(a.created_date).getTime() - new Date(b.created_date).getTime());
