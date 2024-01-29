@@ -11,7 +11,7 @@
 ## Summary of Repo
 
 This repository contains automated tests for Rentzila website implemented using Playwright. <br>
-The deployed GitHub Pages allure report can be found with the following [link]().
+The deployed GitHub Pages allure report can be found with the following [link](https://kristinap8.github.io/rentzila-playwright/).
 
 ## Requirements
 

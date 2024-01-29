@@ -5,7 +5,6 @@ dotenv.config();
 
 export default defineConfig({
   testDir: './tests',
-  testMatch: 'footer.spec.ts',
   timeout: 120000,
   fullyParallel: true,
   forbidOnly: !!process.env.CI,
